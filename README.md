@@ -1,2 +1,3 @@
 # poem-contest-239-goncharova
-djfkals;hd
+Сегодня мы тут,
+а завьра
